@@ -19,6 +19,7 @@ github_username: "WiscoDisco5"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+  skin: dark
 
 rss: rss
 
